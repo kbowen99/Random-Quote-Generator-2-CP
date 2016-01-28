@@ -1,0 +1,38 @@
+F:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\bin\Debug\RandyQuoteGen.exe.config
+F:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\bin\Debug\RandyQuoteGen.exe
+F:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\bin\Debug\RandyQuoteGen.pdb
+F:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.csprojResolveAssemblyReference.cache
+F:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.frm_randyQuoteGenForm.resources
+F:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.Properties.Resources.resources
+F:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.csproj.GenerateResource.Cache
+F:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.exe
+F:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.pdb
+E:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\bin\Debug\RandyQuoteGen.exe.config
+E:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.exe
+E:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.pdb
+E:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\bin\Debug\RandyQuoteGen.exe
+E:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\bin\Debug\RandyQuoteGen.pdb
+E:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.csprojResolveAssemblyReference.cache
+E:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.frm_randyQuoteGenForm.resources
+E:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.Properties.Resources.resources
+E:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.csproj.GenerateResource.Cache
+F:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\bin\Debug\RandyQuoteGen.exe.manifest
+F:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\bin\Debug\RandyQuoteGen.application
+F:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.exe.manifest
+F:\Netbeans\Prog CP1\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.application
+R:\Programming\RandyQuoteGen\RandyQuoteGen\bin\Debug\RandyQuoteGen.exe.config
+R:\Programming\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.exe
+R:\Programming\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.pdb
+R:\Programming\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.csprojResolveAssemblyReference.cache
+R:\Programming\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.frm_randyQuoteGenForm.resources
+R:\Programming\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.Properties.Resources.resources
+R:\Programming\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.csproj.GenerateResource.Cache
+R:\Programming\RandyQuoteGen\RandyQuoteGen\bin\Debug\RandyQuoteGen.exe.manifest
+R:\Programming\RandyQuoteGen\RandyQuoteGen\bin\Debug\RandyQuoteGen.application
+R:\Programming\RandyQuoteGen\RandyQuoteGen\bin\Debug\RandyQuoteGen.exe
+R:\Programming\RandyQuoteGen\RandyQuoteGen\bin\Debug\RandyQuoteGen.pdb
+R:\Programming\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.exe.manifest
+R:\Programming\RandyQuoteGen\RandyQuoteGen\obj\Debug\RandyQuoteGen.application
+R:\Programming\RandyQuoteGen Part2\RandyQuoteGen\bin\Debug\RandyQuoteGen.exe.config
+R:\Programming\RandyQuoteGen Part2\RandyQuoteGen\obj\Debug\RandyQuoteGen.exe
+R:\Programming\RandyQuoteGen Part2\RandyQuoteGen\obj\Debug\RandyQuoteGen.pdb
